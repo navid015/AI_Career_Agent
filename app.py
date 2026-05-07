@@ -88,7 +88,8 @@ def process(jd_text, resume_file, model, progress=gr.Progress()):
 CSS = """
 /* Center the app and constrain its width */
 .gradio-container {
-    max-width: 1400px !important;
+    max-width: 1550px !important;
+    width: 95vw !important;
     margin: 0 auto !important;
     padding: 1.25rem 2rem 2rem 2rem !important;
 }
