@@ -122,7 +122,7 @@ class CareerAgent:
             "- Connects 2-3 of the candidate's concrete experiences to the JD's top requirements\n"
             "- Uses real metrics or project names from the resume where available\n"
             "- Sounds conversational and confident, not robotic or AI-flavored\n"
-            "- Is 3-4 paragraphs, roughly 300-380 words\n"
+            "- Is 3-4 paragraphs, roughly 300-350 words\n"
             "- Closes with a clear, confident next-step line\n\n"
             "Output ONLY the body of the letter. Do NOT include a date, addresses, "
             "\"Dear Hiring Manager,\" line, or sign-off — those are added by the PDF "
