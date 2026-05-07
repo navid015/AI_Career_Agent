@@ -1,9 +1,4 @@
-"""
-AI Career Agent — Gradio app for Hugging Face Spaces.
 
-The Anthropic API key is loaded from the environment (.env file locally,
-or Space secrets in production). End users do NOT supply a key.
-"""
 
 from __future__ import annotations
 
